@@ -3,7 +3,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-[📕Clique aqui para ler]()
+[📕Clique aqui para ler](https://github.com/dcarminatti/nodejs-the-fellowship-of-the-api/blob/main/output/Node.js%3A%20The%20Fellowship%20of%20the%20API.pdf)
 
 ## 💻 Tecnologias utilizadas no projeto
 
