@@ -1,41 +1,53 @@
-# Node.js: The Fellowship of the API
+# Projeto EBOOK Gerado por I.A.s
 
-Welcome to **"Node.js: The Fellowship of the API"**! This ebook is a beginner-friendly guide to creating APIs using Node.js, written in a style inspired by the epic tales of J.R.R. Tolkien. Whether you're a seasoned developer or just starting your journey, this guide will help you forge robust and efficient APIs.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+seguem abaixo.
 
-## 💻 Technologies used in the project
-- [ChatGPT](https://openai.com/chatgpt/)
-- [Midjourney](https://www.midjourney.com/home)
+[📕Clique aqui para ler]()
+
+## 💻 Tecnologias utilizadas no projeto
+
+- [ChatGPT](https://chat.openai.com/) 
+- [MidJourney](https://www.midjourney.com/app/)
 - [Canvas](https://www.canva.com/)
 
-## 📚 How to Use This Ebook
+## 🧠 Prompts
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/nodejs-fellowship-api.git
-   ```
 
-2. **Navigate to the Directory:**
-   ```bash
-   cd nodejs-fellowship-api
-   ```
+ChatGPT：
 
-3. **Follow Along with the Ebook:**
-   - Read the ebook and follow the steps to create your own API using Node.js.
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Crie um título de um ebook sobre o tema de criando uma api com node.js, o ebookk é do nicho de programação e o subnicho é de node.js, o título deve ser épico e curto, e tenha uma temática de senhor dos anéis no título, me liste 5 variações de títulos                                                        |
+| conteúdo | Faça um texto para ebook, com foco em api's em node.js, listando os passos para criar uma api com exemplos em código. Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
-4. **Run the Examples:**
-   - Use the code examples into your own project files and run them to see the results.
 
-## Contributions
+Midjourney：
 
-If you find any errors or have suggestions for improvements, feel free to open an issue or submit a pull request. Your contributions are welcome!
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| título | A Sauron knight, painting style, based on Tolkien's descriptions --v 5.1 |
 
-## License
+## ✨ Features
 
-This ebook is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+- Conteúdo gerado via ChatGPT
+- Imagens geradas via MidJourney
 
----
+## 📚 Materiais
+
+- Imagens utilizadas em `assets`
+- ebook gerado em `output`
+
+## 🛠️ Instruções de execução
+
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+
+## 👨‍💻 Creator
+Author: [Diogo Carminatti]
+GitHub: dcarminatti
+
+## ©️ License
+This ebook is licensed under the MIT License. See the LICENSE file for more details.
 
 Happy coding, and may your APIs be ever powerful and efficient!
 
-**Author:** [Diogo Carminatti]  
-**GitHub:** [dcarminatti](https://github.com/dcarminatti)
