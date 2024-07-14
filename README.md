@@ -44,10 +44,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Creator
 Author: [Diogo Carminatti]
-GitHub: dcarminatti
-
-## ©️ License
-This ebook is licensed under the MIT License. See the [LICENSE](https://github.com/dcarminatti/nodejs-the-fellowship-of-the-api/blob/main/LICENSE) file for more details.
-
-Happy coding, and may your APIs be ever powerful and efficient!
-
+GitHub: dcarminatti(https://github.com/dcarminatti)
